@@ -17,6 +17,11 @@
 - Moderate size (15–20 classes, ~1,000 LOC)
 - Contains real-world structure and logic
 
+### Repo URL
+
+You can drop this URL into the GitHub Repository URL inside the application:
+
+https://github.com/junkshon/decoder-demo/tree/main/Demo2_ASPNETCSHARP
 
 ## Demo2_Go
 
@@ -33,6 +38,12 @@ ORM: GORM with SQLite (file-based DB for realism)
 • handlers.go
 
 CRUD + filtering + analytics
+
+### Repo URL
+
+You can drop this URL into the GitHub Repository URL inside the application:
+
+https://github.com/junkshon/decoder-demo/tree/main/Demo2_Go
 
 ## Demo3_Java
 
@@ -52,6 +63,12 @@ CRUD + filtering + analytics
 - Data seeded on startup
 - JSON serialisation handled automatically via Jackson
 
+### Repo URL
+
+You can drop this URL into the GitHub Repository URL inside the application:
+
+https://github.com/junkshon/decoder-demo/tree/main/Demo3_Java
+
 ## Demo4_WebReact
 
 ### Technical Profile
@@ -63,8 +80,13 @@ CRUD + filtering + analytics
 - API: Configurable base URL (default `http://localhost:5000` or `:8080`)        
 
 ### Application Details
+A React app that interacts with a REST API (so you can pair it with any of the backends above).
 
-React app that interacts with a REST API (so you can pair it with any of the backends above).
+### Repo URL
+
+You can drop this URL into the GitHub Repository URL inside the application:
+
+https://github.com/junkshon/decoder-demo/tree/main/Demo4_WebReact
 
 ## Demo5_Rust
 
@@ -81,6 +103,12 @@ React app that interacts with a REST API (so you can pair it with any of the bac
 - Contains modules, structs, enums, Arc<Mutex> state, and JSON I/O
 - Demonstrates strong typing, ownership, and concurrency patterns
 - ~600 LOC across 3 files — ideal for static analysis demos
+
+### Repo URL
+
+You can drop this URL into the GitHub Repository URL inside the application:
+
+https://github.com/junkshon/decoder-demo/tree/main/Demo5_Rust
 
 ## Demo6_Python
 
@@ -100,6 +128,13 @@ React app that interacts with a REST API (so you can pair it with any of the bac
 - No database — fast startup and reset between runs
 - Roughly 350–400 lines, ideal for performance and inspection
 
+### Repo URL
+
+You can drop this URL into the GitHub Repository URL inside the application:
+
+https://github.com/junkshon/decoder-demo/tree/main/Demo6_Python
+
+
 ## Demo7_NodeJS
 
 ### Technical Profile
@@ -116,3 +151,9 @@ React app that interacts with a REST API (so you can pair it with any of the bac
 - Matches entities (User, Project, Task) with the other demos
 - In-memory storage for instant startup
 - Small (≈300 LOC) but rich enough for dependency & request/response analysis
+
+### Repo URL
+
+You can drop this URL into the GitHub Repository URL inside the application:
+
+https://github.com/junkshon/decoder-demo/tree/main/Demo7_NodeJS
